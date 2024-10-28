@@ -1,0 +1,14 @@
+.container {
+    width: 200%;
+    height: 200vh;
+    background-color: rgb(50, 95, 80);
+  }
+  
+  .testingResponsive {
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    border-radius: 5px;
+  }
+  
+  /* View Width = vw, View Height = vh */
